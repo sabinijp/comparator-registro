@@ -22,3 +22,22 @@ valores corregidos.
   (por eso no hay pick para Tolima vs IDV).
 
 El archivo `picks/2026-08-08.json` se conserva sin cambios, con su prueba original.
+
+---
+
+## 2026-08-09 · De-fusión de clubes homónimos (Santa Fe vs River Plate)
+
+- **Dónde:** `picks/2026-08-09.json`, pick de Santa Fe vs River Plate.
+- **Qué pasó:** los datos tenían **tres pares de clubes distintos fusionados** bajo un mismo nombre
+  (mismo nombre en países distintos, al que se le había quitado el código de país): *Independiente*
+  (Avellaneda ARG + del Valle ECU), *River Plate* (Argentina + Uruguay) y *Libertad* (Paraguay +
+  Ecuador). Se de-fusionaron por país. Al limpiar el rating de **River Plate (Argentina)** —quitándole
+  los partidos del River uruguayo— River quedó más fuerte, y el pick cambió.
+- **Registrado (con datos fusionados):** `1 Santa Fe @ 2.75`, prob modelo **0.44**, EV **+20 %**.
+- **Corregido:** con River (ARG) limpio, Santa Fe local baja a prob **0.35**; el mejor lado pasa a
+  ser `2 River Plate @ 2.74`, prob **0.37**, EV **+2 %** → **ya no es apuesta** (EV < 5 %). Registrado
+  en `picks/2026-08-09_2.json`.
+- **Efecto colateral positivo:** *Independiente del Valle* ganó rating propio → se pudo agregar el pick
+  **Tolima vs IDV** (`2 IDV @ 2.77`, EV +5 %), que antes no se podía modelar.
+
+Los archivos previos se conservan sin cambios, con sus pruebas originales.

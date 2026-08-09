@@ -1,0 +1,38 @@
+{
+  "registered_at": "2026-08-09T20:27:56+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-08-09_2.json.ots",
+  "count": 2,
+  "picks": [
+    {
+      "fixture_id": "id1000038471805768",
+      "comp": "LIB",
+      "match_date": "2026-08-12",
+      "home": "Deportes Tolima",
+      "away": "Independiente del Valle",
+      "pick": "2 Independiente del Valle",
+      "side": "A",
+      "model_prob": 0.3801,
+      "open_odds": 2.77,
+      "open_impl": 0.361,
+      "ev": 0.0528,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-01T09:28:37.715000+00:00"
+    },
+    {
+      "fixture_id": "id1000048071805410",
+      "comp": "SUD",
+      "match_date": "2026-08-13",
+      "home": "Santa Fe",
+      "away": "River Plate",
+      "pick": "2 River Plate",
+      "side": "A",
+      "model_prob": 0.3728,
+      "open_odds": 2.74,
+      "open_impl": 0.365,
+      "ev": 0.0215,
+      "is_bet": false,
+      "open_odds_ts": "2026-07-31T13:01:04.673000+00:00"
+    }
+  ]
+}
