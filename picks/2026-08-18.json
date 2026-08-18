@@ -1,0 +1,83 @@
+{
+  "registered_at": "2026-08-18T08:11:21+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-08-18.json.ots",
+  "count": 5,
+  "picks": [
+    {
+      "fixture_id": "id1000038471805798",
+      "comp": "LIB",
+      "match_date": "2026-08-19",
+      "home": "Cerro Porteño",
+      "away": "Palmeiras",
+      "pick": "1 Cerro Porteño",
+      "side": "H",
+      "model_prob": 0.227,
+      "open_odds": 4.75,
+      "open_impl": 0.2105,
+      "ev": 0.0784,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-13T01:16:05.765000+00:00"
+    },
+    {
+      "fixture_id": "id1000048071805352",
+      "comp": "SUD",
+      "match_date": "2026-08-19",
+      "home": "Atlético Mineiro",
+      "away": "RB Bragantino",
+      "pick": "1 Atlético Mineiro",
+      "side": "H",
+      "model_prob": 0.4535,
+      "open_odds": 2.43,
+      "open_impl": 0.4115,
+      "ev": 0.102,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-13T02:01:05.671000+00:00"
+    },
+    {
+      "fixture_id": "id1000038471805792",
+      "comp": "LIB",
+      "match_date": "2026-08-20",
+      "home": "Flamengo",
+      "away": "Cruzeiro",
+      "pick": "1 Flamengo",
+      "side": "H",
+      "model_prob": 0.5897,
+      "open_odds": 1.628,
+      "open_impl": 0.6143,
+      "ev": -0.04,
+      "is_bet": false,
+      "open_odds_ts": "2026-08-13T04:01:07.877000+00:00"
+    },
+    {
+      "fixture_id": "id1000048071805642",
+      "comp": "SUD",
+      "match_date": "2026-08-20",
+      "home": "River Plate",
+      "away": "Santa Fe",
+      "pick": "1 River Plate",
+      "side": "H",
+      "model_prob": 0.5748,
+      "open_odds": 2.45,
+      "open_impl": 0.4082,
+      "ev": 0.4082,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-12T04:31:06.807000+00:00"
+    },
+    {
+      "fixture_id": "id1000048071805684",
+      "comp": "SUD",
+      "match_date": "2026-08-20",
+      "home": "Torque",
+      "away": "Tigre",
+      "pick": "1 Torque",
+      "side": "H",
+      "model_prob": 0.3896,
+      "open_odds": 2.64,
+      "open_impl": 0.3788,
+      "ev": 0.0286,
+      "is_bet": false,
+      "open_odds_ts": "2026-08-13T01:46:03.653000+00:00"
+    }
+  ]
+}
