@@ -1,0 +1,83 @@
+{
+  "registered_at": "2026-08-19T08:10:25+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-08-19.json.ots",
+  "count": 5,
+  "picks": [
+    {
+      "fixture_id": "id1000038471805796",
+      "comp": "LIB",
+      "match_date": "2026-08-20",
+      "home": "LDU Quito",
+      "away": "Mirassol",
+      "pick": "2 Mirassol",
+      "side": "A",
+      "model_prob": 0.2743,
+      "open_odds": 4.82,
+      "open_impl": 0.2075,
+      "ev": 0.3222,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-14T05:31:16.072000+00:00"
+    },
+    {
+      "fixture_id": "id1000048071805728",
+      "comp": "SUD",
+      "match_date": "2026-08-20",
+      "home": "Macará",
+      "away": "Santos",
+      "pick": "1 Macará",
+      "side": "H",
+      "model_prob": 0.3936,
+      "open_odds": 3.03,
+      "open_impl": 0.33,
+      "ev": 0.1927,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-14T11:31:21.002000+00:00"
+    },
+    {
+      "fixture_id": "id1000048071805384",
+      "comp": "SUD",
+      "match_date": "2026-08-20",
+      "home": "Olimpia",
+      "away": "Vasco da Gama",
+      "pick": "2 Vasco da Gama",
+      "side": "A",
+      "model_prob": 0.3097,
+      "open_odds": 3.23,
+      "open_impl": 0.3096,
+      "ev": 0.0002,
+      "is_bet": false,
+      "open_odds_ts": "2026-08-14T11:46:16.146000+00:00"
+    },
+    {
+      "fixture_id": "id1000038471805790",
+      "comp": "LIB",
+      "match_date": "2026-08-21",
+      "home": "Corinthians",
+      "away": "Rosario Central",
+      "pick": "2 Rosario Central",
+      "side": "A",
+      "model_prob": 0.2966,
+      "open_odds": 4.64,
+      "open_impl": 0.2155,
+      "ev": 0.3761,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-14T06:01:16.816000+00:00"
+    },
+    {
+      "fixture_id": "id1000048071805368",
+      "comp": "SUD",
+      "match_date": "2026-08-21",
+      "home": "Botafogo–RJ",
+      "away": "Cienciano",
+      "pick": "X Empate",
+      "side": "D",
+      "model_prob": 0.2002,
+      "open_odds": 12.14,
+      "open_impl": 0.0824,
+      "ev": 1.4303,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-14T11:16:09.541000+00:00"
+    }
+  ]
+}
