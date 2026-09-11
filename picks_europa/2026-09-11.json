@@ -1,0 +1,83 @@
+{
+  "registered_at": "2026-09-11T08:09:14+00:00",
+  "source": "Comparator · modelo anclado Europa (18 ligas + UCL/UEL)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks_europa/2026-09-11.json.ots",
+  "count": 5,
+  "picks": [
+    {
+      "fixture_id": "id1000067974172924",
+      "comp": "UEL",
+      "match_date": "2026-09-16",
+      "home": "Olympiakos",
+      "away": "Jagiellonia",
+      "pick": "2 Jagiellonia",
+      "side": "A",
+      "model_prob": 0.3216,
+      "open_odds": 7.22,
+      "open_impl": 0.1385,
+      "ev": 1.322,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-31T09:02:56.401000+00:00"
+    },
+    {
+      "fixture_id": "id1000067974172930",
+      "comp": "UEL",
+      "match_date": "2026-09-16",
+      "home": "Sunderland",
+      "away": "AZ Alkmaar",
+      "pick": "1 Sunderland",
+      "side": "H",
+      "model_prob": 0.5676,
+      "open_odds": 1.826,
+      "open_impl": 0.5476,
+      "ev": 0.0364,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-31T09:03:41.555000+00:00"
+    },
+    {
+      "fixture_id": "id1000067974172932",
+      "comp": "UEL",
+      "match_date": "2026-09-17",
+      "home": "OFI Crete",
+      "away": "Hoffenheim",
+      "pick": "2 Hoffenheim",
+      "side": "A",
+      "model_prob": 0.6427,
+      "open_odds": 1.606,
+      "open_impl": 0.6227,
+      "ev": 0.0322,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-31T09:06:16.454000+00:00"
+    },
+    {
+      "fixture_id": "id1000067974172940",
+      "comp": "UEL",
+      "match_date": "2026-09-17",
+      "home": "Crystal Palace",
+      "away": "Lech Poznan",
+      "pick": "2 Lech Poznan",
+      "side": "A",
+      "model_prob": 0.2733,
+      "open_odds": 7.21,
+      "open_impl": 0.1387,
+      "ev": 0.9707,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-31T09:15:34.537000+00:00"
+    },
+    {
+      "fixture_id": "id1000067974172948",
+      "comp": "UEL",
+      "match_date": "2026-09-17",
+      "home": "Sociedad",
+      "away": "Bournemouth",
+      "pick": "2 Bournemouth",
+      "side": "A",
+      "model_prob": 0.5034,
+      "open_odds": 3.04,
+      "open_impl": 0.3289,
+      "ev": 0.5302,
+      "is_bet": true,
+      "open_odds_ts": "2026-08-31T09:09:33.913000+00:00"
+    }
+  ]
+}
