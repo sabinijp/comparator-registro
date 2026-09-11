@@ -1,0 +1,53 @@
+{
+  "registered_at": "2026-09-11T08:10:34+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-09-11.json.ots",
+  "count": 3,
+  "picks": [
+    {
+      "fixture_id": "id1000038473903158",
+      "comp": "LIB",
+      "match_date": "2026-09-16",
+      "home": "LDU Quito",
+      "away": "Palmeiras",
+      "pick": "2 Palmeiras",
+      "side": "A",
+      "model_prob": 0.4088,
+      "open_odds": 2.86,
+      "open_impl": 0.3497,
+      "ev": 0.1692,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-10T01:45:32.930000+00:00"
+    },
+    {
+      "fixture_id": "id1000048073902974",
+      "comp": "SUD",
+      "match_date": "2026-09-16",
+      "home": "Atlético Mineiro",
+      "away": "Santos",
+      "pick": "2 Santos",
+      "side": "A",
+      "model_prob": 0.2759,
+      "open_odds": 4.17,
+      "open_impl": 0.2398,
+      "ev": 0.1505,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-10T01:30:31.954000+00:00"
+    },
+    {
+      "fixture_id": "id1000038473911212",
+      "comp": "LIB",
+      "match_date": "2026-09-17",
+      "home": "Corinthians",
+      "away": "Estudiantes–LP",
+      "pick": "2 Estudiantes–LP",
+      "side": "A",
+      "model_prob": 0.2982,
+      "open_odds": 4.75,
+      "open_impl": 0.2105,
+      "ev": 0.4166,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-10T12:07:54.676000+00:00"
+    }
+  ]
+}
