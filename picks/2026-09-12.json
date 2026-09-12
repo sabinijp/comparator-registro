@@ -1,0 +1,38 @@
+{
+  "registered_at": "2026-09-12T18:14:49+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-09-12.json.ots",
+  "count": 2,
+  "picks": [
+    {
+      "fixture_id": "id1000038474073942",
+      "comp": "LIB",
+      "match_date": "2026-09-18",
+      "home": "Flamengo",
+      "away": "Independiente del Valle",
+      "pick": "2 Independiente del Valle",
+      "side": "A",
+      "model_prob": 0.1657,
+      "open_odds": 8.18,
+      "open_impl": 0.1222,
+      "ev": 0.3553,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-11T07:30:34.914000+00:00"
+    },
+    {
+      "fixture_id": "id1000048073911198",
+      "comp": "SUD",
+      "match_date": "2026-09-18",
+      "home": "Torque",
+      "away": "Cienciano",
+      "pick": "2 Cienciano",
+      "side": "A",
+      "model_prob": 0.2406,
+      "open_odds": 5.97,
+      "open_impl": 0.1675,
+      "ev": 0.4364,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-11T04:30:32.524000+00:00"
+    }
+  ]
+}
