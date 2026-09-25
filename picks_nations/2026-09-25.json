@@ -1,0 +1,83 @@
+{
+  "registered_at": "2026-09-25T08:50:29+00:00",
+  "source": "Comparator · modelo de selecciones, bivariate Poisson 1 fuerza/equipo (UEFA Nations League)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks_nations/2026-09-25.json.ots",
+  "count": 5,
+  "picks": [
+    {
+      "fixture_id": "id1002375568932070",
+      "comp": "UNL",
+      "match_date": "2026-09-27",
+      "home": "Lithuania",
+      "away": "Azerbaijan",
+      "pick": "1 Lithuania",
+      "side": "H",
+      "model_prob": 0.4634,
+      "open_odds": 2.52,
+      "open_impl": 0.3968,
+      "ev": 0.1679,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-24T18:45:29.002000+00:00"
+    },
+    {
+      "fixture_id": "id1002375568931694",
+      "comp": "UNL",
+      "match_date": "2026-09-29",
+      "home": "Czech Republic",
+      "away": "England",
+      "pick": "X Empate",
+      "side": "D",
+      "model_prob": 0.2349,
+      "open_odds": 4.63,
+      "open_impl": 0.216,
+      "ev": 0.0875,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-22T07:22:33.627000+00:00"
+    },
+    {
+      "fixture_id": "id1002375568931696",
+      "comp": "UNL",
+      "match_date": "2026-09-29",
+      "home": "Spain",
+      "away": "Croatia",
+      "pick": "1 Spain",
+      "side": "H",
+      "model_prob": 0.7604,
+      "open_odds": 1.321,
+      "open_impl": 0.757,
+      "ev": 0.0044,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-22T07:22:52.419000+00:00"
+    },
+    {
+      "fixture_id": "id1002375568932784",
+      "comp": "UNL",
+      "match_date": "2026-09-29",
+      "home": "Scotland",
+      "away": "Switzerland",
+      "pick": "1 Scotland",
+      "side": "H",
+      "model_prob": 0.2877,
+      "open_odds": 3.46,
+      "open_impl": 0.289,
+      "ev": -0.0044,
+      "is_bet": false,
+      "open_odds_ts": "2026-09-22T07:28:25.097000+00:00"
+    },
+    {
+      "fixture_id": "id1002375568932786",
+      "comp": "UNL",
+      "match_date": "2026-09-29",
+      "home": "Slovenia",
+      "away": "North Macedonia",
+      "pick": "1 Slovenia",
+      "side": "H",
+      "model_prob": 0.5988,
+      "open_odds": 1.68,
+      "open_impl": 0.5952,
+      "ev": 0.0059,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-22T07:28:42.357000+00:00"
+    }
+  ]
+}
