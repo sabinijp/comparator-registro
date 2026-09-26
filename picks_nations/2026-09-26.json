@@ -1,0 +1,23 @@
+{
+  "registered_at": "2026-09-26T08:11:08+00:00",
+  "source": "Comparator · modelo de selecciones, bivariate Poisson 1 fuerza/equipo (UEFA Nations League)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks_nations/2026-09-26.json.ots",
+  "count": 1,
+  "picks": [
+    {
+      "fixture_id": "id1002375568932808",
+      "comp": "UNL",
+      "match_date": "2026-09-27",
+      "home": "Gibraltar",
+      "away": "Andorra",
+      "pick": "2 Andorra",
+      "side": "A",
+      "model_prob": 0.4313,
+      "open_odds": 2.39,
+      "open_impl": 0.4184,
+      "ev": 0.0308,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-25T11:00:36.759000+00:00"
+    }
+  ]
+}
