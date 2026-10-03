@@ -1,0 +1,23 @@
+{
+  "registered_at": "2026-10-03T18:52:42+00:00",
+  "source": "Comparator · modelo anclado Europa (18 ligas + UCL/UEL)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks_europa/2026-10-03.json.ots",
+  "count": 1,
+  "picks": [
+    {
+      "fixture_id": "id1000000774165904",
+      "comp": "UCL",
+      "match_date": "2026-10-13",
+      "home": "Lens",
+      "away": "Sp Lisbon",
+      "pick": "2 Sp Lisbon",
+      "side": "A",
+      "model_prob": 0.4919,
+      "open_odds": 2.81,
+      "open_impl": 0.3559,
+      "ev": 0.3821,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-11T04:01:07.860000+00:00"
+    }
+  ]
+}
