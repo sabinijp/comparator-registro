@@ -1,0 +1,23 @@
+{
+  "registered_at": "2026-10-04T12:42:40+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-10-04.json.ots",
+  "count": 1,
+  "picks": [
+    {
+      "fixture_id": "id1000048074752722",
+      "comp": "SUD",
+      "match_date": "2026-10-14",
+      "home": "Boca Juniors",
+      "away": "Vasco da Gama",
+      "pick": "1 Boca Juniors",
+      "side": "H",
+      "model_prob": 0.543,
+      "open_odds": 1.917,
+      "open_impl": 0.5216,
+      "ev": 0.041,
+      "is_bet": true,
+      "open_odds_ts": "2026-09-21T17:40:21.671000+00:00"
+    }
+  ]
+}
