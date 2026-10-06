@@ -1,0 +1,23 @@
+{
+  "registered_at": "2026-10-06T11:02:35+00:00",
+  "source": "Comparator · modelo de selecciones, bivariate Poisson 1 fuerza/equipo (UEFA Nations League)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks_nations/2026-10-06.json.ots",
+  "count": 1,
+  "picks": [
+    {
+      "fixture_id": "id1002375568932516",
+      "comp": "UNL",
+      "match_date": "2026-10-06",
+      "home": "Belarus",
+      "away": "Finland",
+      "pick": "1 Belarus",
+      "side": "H",
+      "model_prob": 0.3131,
+      "open_odds": 4.059,
+      "open_impl": 0.2464,
+      "ev": 0.2709,
+      "is_bet": true,
+      "open_odds_ts": "2026-10-05T14:53:25.384000+00:00"
+    }
+  ]
+}
