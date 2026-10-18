@@ -1,0 +1,23 @@
+{
+  "registered_at": "2026-10-17T19:22:09+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-10-17.json.ots",
+  "count": 1,
+  "picks": [
+    {
+      "fixture_id": "id1000038474808586",
+      "comp": "LIB",
+      "match_date": "2026-10-23",
+      "home": "Flamengo",
+      "away": "Estudiantes–LP",
+      "pick": "2 Estudiantes–LP",
+      "side": "A",
+      "model_prob": 0.1708,
+      "open_odds": 10.2,
+      "open_impl": 0.098,
+      "ev": 0.7421,
+      "is_bet": true,
+      "open_odds_ts": "2026-10-16T04:45:35.210000+00:00"
+    }
+  ]
+}

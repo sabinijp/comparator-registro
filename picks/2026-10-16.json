@@ -1,0 +1,38 @@
+{
+  "registered_at": "2026-10-16T13:11:48+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-10-16.json.ots",
+  "count": 2,
+  "picks": [
+    {
+      "fixture_id": "id1000048074808576",
+      "comp": "SUD",
+      "match_date": "2026-10-21",
+      "home": "Torque",
+      "away": "Atlético Mineiro",
+      "pick": "2 Atlético Mineiro",
+      "side": "A",
+      "model_prob": 0.3974,
+      "open_odds": 2.6,
+      "open_impl": 0.3846,
+      "ev": 0.0331,
+      "is_bet": true,
+      "open_odds_ts": "2026-10-15T01:30:35.529000+00:00"
+    },
+    {
+      "fixture_id": "id1000038474781110",
+      "comp": "LIB",
+      "match_date": "2026-10-22",
+      "home": "Palmeiras",
+      "away": "Fluminense",
+      "pick": "1 Palmeiras",
+      "side": "H",
+      "model_prob": 0.5796,
+      "open_odds": 2.21,
+      "open_impl": 0.4525,
+      "ev": 0.281,
+      "is_bet": true,
+      "open_odds_ts": "2026-10-15T03:07:56.422000+00:00"
+    }
+  ]
+}
