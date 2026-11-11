@@ -1,0 +1,23 @@
+{
+  "registered_at": "2026-11-07T18:37:31+00:00",
+  "source": "Comparator · modelo de selecciones, bivariate Poisson 1 fuerza/equipo (UEFA Nations League)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks_nations/2026-11-07.json.ots",
+  "count": 1,
+  "picks": [
+    {
+      "fixture_id": "id1002375568931496",
+      "comp": "UNL",
+      "match_date": "2026-11-12",
+      "home": "Turkey",
+      "away": "Belgium",
+      "pick": "X Empate",
+      "side": "D",
+      "model_prob": 0.2711,
+      "open_odds": 3.86,
+      "open_impl": 0.2591,
+      "ev": 0.0463,
+      "is_bet": true,
+      "open_odds_ts": "2026-11-01T08:45:51.956000+00:00"
+    }
+  ]
+}
