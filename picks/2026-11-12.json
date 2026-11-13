@@ -1,0 +1,23 @@
+{
+  "registered_at": "2026-11-12T14:09:35+00:00",
+  "source": "Comparator · modelo anclado CONMEBOL (Libertadores + Sudamericana)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks/2026-11-12.json.ots",
+  "count": 1,
+  "picks": [
+    {
+      "fixture_id": "id1000048075884780",
+      "comp": "SUD",
+      "match_date": "2026-11-21",
+      "home": "Atlético Mineiro",
+      "away": "Boca Juniors",
+      "pick": "1 Atlético Mineiro",
+      "side": "H",
+      "model_prob": 0.3829,
+      "open_odds": 2.67,
+      "open_impl": 0.3745,
+      "ev": 0.0223,
+      "is_bet": true,
+      "open_odds_ts": "2026-10-24T14:18:10.108000+00:00"
+    }
+  ]
+}
