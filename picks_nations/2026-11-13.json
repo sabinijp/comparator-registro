@@ -1,0 +1,68 @@
+{
+  "registered_at": "2026-11-13T14:34:18+00:00",
+  "source": "Comparator · modelo de selecciones, bivariate Poisson 1 fuerza/equipo (UEFA Nations League)",
+  "note": "Registro previo al partido. La prueba de fecha la da el archivo .ots (OpenTimestamps / Bitcoin), no el commit de git. Verificá con: ots verify picks_nations/2026-11-13.json.ots",
+  "count": 4,
+  "picks": [
+    {
+      "fixture_id": "id1002375568931504",
+      "comp": "UNL",
+      "match_date": "2026-11-15",
+      "home": "Belgium",
+      "away": "Italy",
+      "pick": "1 Belgium",
+      "side": "H",
+      "model_prob": 0.5204,
+      "open_odds": 2.23,
+      "open_impl": 0.4484,
+      "ev": 0.1604,
+      "is_bet": true,
+      "open_odds_ts": "2026-11-13T02:07:51.019000+00:00"
+    },
+    {
+      "fixture_id": "id1002375568931506",
+      "comp": "UNL",
+      "match_date": "2026-11-15",
+      "home": "France",
+      "away": "Turkey",
+      "pick": "X Empate",
+      "side": "D",
+      "model_prob": 0.1506,
+      "open_odds": 8.26,
+      "open_impl": 0.1211,
+      "ev": 0.2443,
+      "is_bet": true,
+      "open_odds_ts": "2026-11-13T02:45:30.212000+00:00"
+    },
+    {
+      "fixture_id": "id1002375568931758",
+      "comp": "UNL",
+      "match_date": "2026-11-15",
+      "home": "Croatia",
+      "away": "Czech Republic",
+      "pick": "X Empate",
+      "side": "D",
+      "model_prob": 0.2334,
+      "open_odds": 4.99,
+      "open_impl": 0.2004,
+      "ev": 0.1646,
+      "is_bet": true,
+      "open_odds_ts": "2026-11-13T02:07:50.134000+00:00"
+    },
+    {
+      "fixture_id": "id1002375568931760",
+      "comp": "UNL",
+      "match_date": "2026-11-15",
+      "home": "Spain",
+      "away": "England",
+      "pick": "X Empate",
+      "side": "D",
+      "model_prob": 0.2534,
+      "open_odds": 4.27,
+      "open_impl": 0.2342,
+      "ev": 0.0822,
+      "is_bet": true,
+      "open_odds_ts": "2026-11-13T01:45:31.798000+00:00"
+    }
+  ]
+}
